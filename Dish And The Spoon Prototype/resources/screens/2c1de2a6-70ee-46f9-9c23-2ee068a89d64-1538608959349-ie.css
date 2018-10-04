@@ -1,0 +1,48 @@
+#s-2c1de2a6-70ee-46f9-9c23-2ee068a89d64 #s-Button {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #000000;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  height: 37px;
+  width: 406px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-2c1de2a6-70ee-46f9-9c23-2ee068a89d64 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2c1de2a6-70ee-46f9-9c23-2ee068a89d64 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2c1de2a6-70ee-46f9-9c23-2ee068a89d64 #s-Image_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-2c1de2a6-70ee-46f9-9c23-2ee068a89d64 #s-Image_4 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-2c1de2a6-70ee-46f9-9c23-2ee068a89d64 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

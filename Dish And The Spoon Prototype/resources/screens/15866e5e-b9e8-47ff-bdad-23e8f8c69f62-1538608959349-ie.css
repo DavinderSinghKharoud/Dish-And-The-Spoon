@@ -1,0 +1,90 @@
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Button {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #F8F7F6;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #F8F7F6;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #F8F7F6;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #F8F7F6;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+  height: 37px;
+  width: 405px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Rectangle_10 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Label_99 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Ellipse_33 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Ellipse_34 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Ellipse_35 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Ellipse_36 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Ellipse_37 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Label_106 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Image_10 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Image_26 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Image_27 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Button_1 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFD71;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFD71;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFD71;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFD71;
+  -ms-transform: rotate(0.0deg);
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 #s-Image_29 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-15866e5e-b9e8-47ff-bdad-23e8f8c69f62 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
